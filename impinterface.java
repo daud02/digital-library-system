@@ -2,6 +2,7 @@ import java.util.*;
  interface EBook {
 
      public void display();
+     public void getTitle();
 }
 public class impinterface {
 
